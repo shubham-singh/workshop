@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 
     int a = 10;
-    int b =  10;
+    int b =  12;
     cout<<"Learning Git and Github"<<endl;
     cout<<"Basics of Git and Github";
     cout<<a;
